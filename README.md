@@ -3,3 +3,4 @@
 值
 
 do a test
+test git pull
